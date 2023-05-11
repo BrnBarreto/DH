@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b69ba31f-0b39-49fb-a13c-6c0155353277" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/Aula1MesaTrabalho.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/BuscaVoo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/Mesas de Trabalho - (facade) - turismo.docx.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/src/model/BuscaHotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/src/model/BuscaVoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/src/service/FacadeBusca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BuscaVoo/src/service/IBusca.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2PeGPkIcfzJnQ1WR20a94CnS7pk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bruno/OneDrive/Área de Trabalho/Digital House/03 - BACKEND_1/2023.05.08-Aula1e2/AulaFacade_refazer",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b69ba31f-0b39-49fb-a13c-6c0155353277" name="Changes" comment="" />
+      <created>1683810113141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683810113141</updated>
+    </task>
+    <servers />
+  </component>
+</project>
