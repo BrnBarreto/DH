@@ -1,7 +1,7 @@
 package com.dh.dao;
 import com.dh.model.Medicamento;
+import org.apache.log4j.Logger;
 
-import java.util.logging.Logger;
 
 public class MedicamentoDao implements IDao<Medicamento> {
 
